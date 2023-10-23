@@ -1,0 +1,32 @@
+.cabecalho{
+    background-color: #a5a5a5;
+}
+.lista_cabecalho{
+    color: rgb(250, 255, 255);
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 7px;
+    padding: 5px;
+}
+img{width: 90px;
+height: 90px;
+margin: 10px;
+margin-left: 35px;
+
+}
+body {
+    font-family: Arial, sans-serif; 
+    background: #a5a5a5; 
+    }
+    h1 {
+    font-size: 30px; 
+    color: #000000; 
+    margin-top: 20px; 
+    margin-bottom: 10px; 
+    }
+    p {
+    font-family: "Helvetica", Arial, sans-serif; 
+    font-size: 18px; 
+    color: #a5a5a5; 
+    margin: 10px ; 
+    text-align: justify; }
